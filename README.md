@@ -1,5 +1,4 @@
 # FFXIV-Hud-Menu
-[heading-1](#heading-1 "Goto heading-1")
 Menu Name  | Hotbar Number
 ------------- | -------------
 Root Menu  | Hotbar 10
