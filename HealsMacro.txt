@@ -1,0 +1,8 @@
+/hotbar display 7 on
+/hotbar display 8 off
+/hotbar display 9 off
+/hotbar display 6 off
+/hotbar display 10 off
+/wait 4
+/hotbar display 10 on
+/hotbar display 7 off

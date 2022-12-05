@@ -1,0 +1,2 @@
+/hotbar display 9 off
+/hotbar display 10 on
